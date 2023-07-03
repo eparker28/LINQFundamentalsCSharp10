@@ -1,0 +1,12 @@
+C:\Projects\PluralSight\LINQFundamentalsCSharp10\LINQ-Fundamentals-Starting\LINQSamples.DataLayer\bin\Debug\net6.0\LINQSamples.DataLayer.deps.json
+C:\Projects\PluralSight\LINQFundamentalsCSharp10\LINQ-Fundamentals-Starting\LINQSamples.DataLayer\bin\Debug\net6.0\LINQSamples.DataLayer.dll
+C:\Projects\PluralSight\LINQFundamentalsCSharp10\LINQ-Fundamentals-Starting\LINQSamples.DataLayer\bin\Debug\net6.0\LINQSamples.DataLayer.pdb
+C:\Projects\PluralSight\LINQFundamentalsCSharp10\LINQ-Fundamentals-Starting\LINQSamples.DataLayer\obj\Debug\net6.0\LINQSamples.DataLayer.csproj.AssemblyReference.cache
+C:\Projects\PluralSight\LINQFundamentalsCSharp10\LINQ-Fundamentals-Starting\LINQSamples.DataLayer\obj\Debug\net6.0\LINQSamples.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\PluralSight\LINQFundamentalsCSharp10\LINQ-Fundamentals-Starting\LINQSamples.DataLayer\obj\Debug\net6.0\LINQSamples.DataLayer.AssemblyInfoInputs.cache
+C:\Projects\PluralSight\LINQFundamentalsCSharp10\LINQ-Fundamentals-Starting\LINQSamples.DataLayer\obj\Debug\net6.0\LINQSamples.DataLayer.AssemblyInfo.cs
+C:\Projects\PluralSight\LINQFundamentalsCSharp10\LINQ-Fundamentals-Starting\LINQSamples.DataLayer\obj\Debug\net6.0\LINQSamples.DataLayer.csproj.CoreCompileInputs.cache
+C:\Projects\PluralSight\LINQFundamentalsCSharp10\LINQ-Fundamentals-Starting\LINQSamples.DataLayer\obj\Debug\net6.0\LINQSamples.DataLayer.dll
+C:\Projects\PluralSight\LINQFundamentalsCSharp10\LINQ-Fundamentals-Starting\LINQSamples.DataLayer\obj\Debug\net6.0\refint\LINQSamples.DataLayer.dll
+C:\Projects\PluralSight\LINQFundamentalsCSharp10\LINQ-Fundamentals-Starting\LINQSamples.DataLayer\obj\Debug\net6.0\LINQSamples.DataLayer.pdb
+C:\Projects\PluralSight\LINQFundamentalsCSharp10\LINQ-Fundamentals-Starting\LINQSamples.DataLayer\obj\Debug\net6.0\ref\LINQSamples.DataLayer.dll

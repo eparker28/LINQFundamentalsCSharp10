@@ -1,0 +1,15 @@
+C:\Projects\PluralSight\LINQFundamentalsCSharp10\LINQ-Fundamentals-Starting\LINQSamples.Common\bin\Debug\net6.0\LINQSamples.Common.deps.json
+C:\Projects\PluralSight\LINQFundamentalsCSharp10\LINQ-Fundamentals-Starting\LINQSamples.Common\bin\Debug\net6.0\LINQSamples.Common.dll
+C:\Projects\PluralSight\LINQFundamentalsCSharp10\LINQ-Fundamentals-Starting\LINQSamples.Common\bin\Debug\net6.0\LINQSamples.Common.pdb
+C:\Projects\PluralSight\LINQFundamentalsCSharp10\LINQ-Fundamentals-Starting\LINQSamples.Common\bin\Debug\net6.0\LINQSamples.DataLayer.dll
+C:\Projects\PluralSight\LINQFundamentalsCSharp10\LINQ-Fundamentals-Starting\LINQSamples.Common\bin\Debug\net6.0\LINQSamples.DataLayer.pdb
+C:\Projects\PluralSight\LINQFundamentalsCSharp10\LINQ-Fundamentals-Starting\LINQSamples.Common\obj\Debug\net6.0\LINQSamples.Common.csproj.AssemblyReference.cache
+C:\Projects\PluralSight\LINQFundamentalsCSharp10\LINQ-Fundamentals-Starting\LINQSamples.Common\obj\Debug\net6.0\LINQSamples.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\PluralSight\LINQFundamentalsCSharp10\LINQ-Fundamentals-Starting\LINQSamples.Common\obj\Debug\net6.0\LINQSamples.Common.AssemblyInfoInputs.cache
+C:\Projects\PluralSight\LINQFundamentalsCSharp10\LINQ-Fundamentals-Starting\LINQSamples.Common\obj\Debug\net6.0\LINQSamples.Common.AssemblyInfo.cs
+C:\Projects\PluralSight\LINQFundamentalsCSharp10\LINQ-Fundamentals-Starting\LINQSamples.Common\obj\Debug\net6.0\LINQSamples.Common.csproj.CoreCompileInputs.cache
+C:\Projects\PluralSight\LINQFundamentalsCSharp10\LINQ-Fundamentals-Starting\LINQSamples.Common\obj\Debug\net6.0\LINQSamples.Common.csproj.CopyComplete
+C:\Projects\PluralSight\LINQFundamentalsCSharp10\LINQ-Fundamentals-Starting\LINQSamples.Common\obj\Debug\net6.0\LINQSamples.Common.dll
+C:\Projects\PluralSight\LINQFundamentalsCSharp10\LINQ-Fundamentals-Starting\LINQSamples.Common\obj\Debug\net6.0\refint\LINQSamples.Common.dll
+C:\Projects\PluralSight\LINQFundamentalsCSharp10\LINQ-Fundamentals-Starting\LINQSamples.Common\obj\Debug\net6.0\LINQSamples.Common.pdb
+C:\Projects\PluralSight\LINQFundamentalsCSharp10\LINQ-Fundamentals-Starting\LINQSamples.Common\obj\Debug\net6.0\ref\LINQSamples.Common.dll
